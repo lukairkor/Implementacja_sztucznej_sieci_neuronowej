@@ -1,0 +1,1 @@
+# Implementacja_sztucznej_sieci_neuronowej
